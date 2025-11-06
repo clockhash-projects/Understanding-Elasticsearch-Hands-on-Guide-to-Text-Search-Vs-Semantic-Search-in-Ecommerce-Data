@@ -1,0 +1,1 @@
+# Understanding-Elasticsearch-Hands-on-Guide-to-Text-Search-Vs-Semantic-Search-in-Ecommerce-Data
