@@ -1,0 +1,12 @@
+# Core dependencies
+elasticsearch>=8.13.0,<9
+requests>=2.31.0
+numpy>=1.26.0
+
+# Optional (recommended for API or interactive testing)
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+
+# Optional (for debugging or formatting)
+python-dotenv>=1.0.1
+rich>=13.7.0
